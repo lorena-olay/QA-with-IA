@@ -1,6 +1,5 @@
 # QA-with-IA
-Pruebas automatizadas: pruebas unitarias básicas e integrarlas con TensorFlow y PyTorch
-
+Automated testing: basic unit testing and integration with TensorFlow and PyTorch
 # Steps for docker set up
 ## Built a docker image
 ```bash
