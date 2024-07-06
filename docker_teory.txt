@@ -1,0 +1,7 @@
+Cómo Funciona Docker
+- Dockerfile (define el entorno de la aplicación):
+Es un archivo de texto que contiene las instrucciones para construir una imagen Docker. Define el entorno y las dependencias necesarias para ejecutar la aplicación.
+- Imagen Docker:
+Es una plantilla inmutable que se crea a partir de un Dockerfile. Contiene todo lo necesario para ejecutar una aplicación, incluyendo el código, bibliotecas y configuraciones.
+- Contenedor Docker:
+Es una instancia en ejecución de una imagen Docker. Los contenedores son ligeros y rápidos de iniciar y detener.
